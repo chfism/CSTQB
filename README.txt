@@ -1,0 +1,1 @@
+script used to query CSTQB certification name list
